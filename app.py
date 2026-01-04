@@ -595,7 +595,7 @@ async def MaiiiinE():
     # BOT LOGIN UID
     BOT_UID = int('14079749000')  # <-- FIXED BOT UID
 
-    Uid, Pw = '4371482873', 'JANVA_20ADL_BY_SPIDEERIO_GAMING_8YLZN'
+    Uid, Pw = '4328413972', '1E20460D18739641C60E07C8C4ED01601BD0F615BC4BEFB53912B37F0734CFD6'
 
     open_id, access_token = await GeNeRaTeAccEss(Uid, Pw)
     if not open_id or not access_token:
